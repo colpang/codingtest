@@ -1,0 +1,7 @@
+D:\Study\codingtest\Ex_array_reverse\Ex_array_reverse\obj\Debug\Level0.csproj.CoreCompileInputs.cache
+D:\Study\codingtest\Ex_array_reverse\Ex_array_reverse\obj\Debug\Ex_array_reverse.exe
+D:\Study\codingtest\Ex_array_reverse\Ex_array_reverse\obj\Debug\Ex_array_reverse.pdb
+D:\Study\codingtest\Ex_array_reverse\Ex_array_reverse\bin\Debug\Ex_array_reverse.exe.config
+D:\Study\codingtest\Ex_array_reverse\Ex_array_reverse\bin\Debug\Ex_array_reverse.exe
+D:\Study\codingtest\Ex_array_reverse\Ex_array_reverse\bin\Debug\Ex_array_reverse.pdb
+D:\Study\codingtest\Ex_array_reverse\Ex_array_reverse\obj\Debug\Level0.csproj.AssemblyReference.cache
