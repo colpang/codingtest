@@ -1,0 +1,6 @@
+D:\Study\codingtest\siftup\siftup\obj\Debug\siftup.csproj.CoreCompileInputs.cache
+D:\Study\codingtest\siftup\siftup\bin\Debug\siftup.exe.config
+D:\Study\codingtest\siftup\siftup\bin\Debug\siftup.exe
+D:\Study\codingtest\siftup\siftup\bin\Debug\siftup.pdb
+D:\Study\codingtest\siftup\siftup\obj\Debug\siftup.exe
+D:\Study\codingtest\siftup\siftup\obj\Debug\siftup.pdb
