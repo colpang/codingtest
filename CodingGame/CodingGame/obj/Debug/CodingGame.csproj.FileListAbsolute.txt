@@ -4,3 +4,4 @@ D:\Study\codingtest\CodingGame\CodingGame\bin\Debug\CodingGame.pdb
 D:\Study\codingtest\CodingGame\CodingGame\obj\Debug\CodingGame.csproj.CoreCompileInputs.cache
 D:\Study\codingtest\CodingGame\CodingGame\obj\Debug\CodingGame.exe
 D:\Study\codingtest\CodingGame\CodingGame\obj\Debug\CodingGame.pdb
+D:\Study\codingtest\CodingGame\CodingGame\obj\Debug\CodingGame.csproj.AssemblyReference.cache
