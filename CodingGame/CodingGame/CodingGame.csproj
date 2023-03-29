@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Shadows1.cs" />
+    <Compile Include="thegift.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
